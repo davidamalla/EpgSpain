@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="Daystar.pe"><display-name>Daystar.pe</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
-<channel id="Enlace.pe"><display-name>Enlace.pe</display-name><icon src="https://images.open-epg.com/40355.png"/></channel>
-<channel id="StingrayiConcerts.at"><display-name>Stingray iConcerts.at</display-name><icon src="https://images.open-epg.com/12857278.png"/></channel>
 <channel id="A3Cine.uy"><display-name>A3Cine.uy</display-name><icon src="https://images.open-epg.com/21113818.png"/></channel>
 <channel id="Actualidad360.es"><display-name>Actualidad 360.es</display-name><icon src="https://images.open-epg.com/25841988.png"/></channel>
 <channel id="CanalParlamento.es"><display-name>Canal Parlamento.es</display-name><icon src="https://images.open-epg.com/17504.png"/></channel>
@@ -24,6 +21,9 @@
 <channel id="ViajesYSabores.es"><display-name>Viajes y Sabores.es</display-name><icon src="https://images.open-epg.com/x2059.png"/></channel>
 <channel id="Daystar.ar"><display-name>Daystar.ar</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
 <channel id="Enlace.ar"><display-name>Enlace.ar</display-name><icon src="https://images.open-epg.com/x957.png"/></channel>
+<channel id="Daystar.pe"><display-name>Daystar.pe</display-name><icon src="https://images.open-epg.com/26632.png"/></channel>
+<channel id="Enlace.pe"><display-name>Enlace.pe</display-name><icon src="https://images.open-epg.com/40355.png"/></channel>
+<channel id="StingrayiConcerts.at"><display-name>Stingray iConcerts.at</display-name><icon src="https://images.open-epg.com/12857278.png"/></channel>
 <programme start="20261114093000 +0000" stop="20261114103000 +0000" channel="Daystar.ar">
 <title>El cielo en la Tierra</title>
 <sub-title></sub-title>
@@ -2256,120 +2256,6 @@
 <desc></desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113000200 +0000" stop="20261113005300 +0000" channel="StingrayiConcerts.at">
-<title>Beyonce and More: the Sound of Change Live at Twickenham</title>
-<sub-title></sub-title>
-<desc>Beyonce and More: the Sound of Change Live at Twickenham</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113005300 +0000" stop="20261113013600 +0000" channel="StingrayiConcerts.at">
-<title>Oasis: Live at Wembley Arena 2008</title>
-<sub-title></sub-title>
-<desc>Oasis: Live at Wembley Arena 2008</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113013600 +0000" stop="20261113020000 +0000" channel="StingrayiConcerts.at">
-<title>iConcerts Hits</title>
-<sub-title></sub-title>
-<desc>iConcerts Hits</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113020000 +0000" stop="20261113032200 +0000" channel="StingrayiConcerts.at">
-<title>Live at the Apple Music Festival</title>
-<sub-title></sub-title>
-<desc>Live at the Apple Music Festival</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113032200 +0000" stop="20261113043500 +0000" channel="StingrayiConcerts.at">
-<title>Alice in Chains Unplugged</title>
-<sub-title></sub-title>
-<desc>Alice in Chains Unplugged</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113043500 +0000" stop="20261113050700 +0000" channel="StingrayiConcerts.at">
-<title>Leon Bridges -- Live in London 2015</title>
-<sub-title></sub-title>
-<desc>Leon Bridges -- Live in London 2015</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113050700 +0000" stop="20261113070200 +0000" channel="StingrayiConcerts.at">
-<title>Kiss - Live in Nürburgring</title>
-<sub-title></sub-title>
-<desc>Kiss - Live in Nürburgring</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113070200 +0000" stop="20261113092300 +0000" channel="StingrayiConcerts.at">
-<title>Tupac Assassination: Battle for Compton</title>
-<sub-title></sub-title>
-<desc>Tupac Assassination: Battle for Compton</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113092300 +0000" stop="20261113110400 +0000" channel="StingrayiConcerts.at">
-<title>Justin Bieber - Live at Madison Square Garden</title>
-<sub-title></sub-title>
-<desc>Justin Bieber - Live at Madison Square Garden</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113110400 +0000" stop="20261113124900 +0000" channel="StingrayiConcerts.at">
-<title>Ed Sheeran: Live at iTunes Festival</title>
-<sub-title></sub-title>
-<desc>Ed Sheeran: Live at iTunes Festival</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113124900 +0000" stop="20261113134400 +0000" channel="StingrayiConcerts.at">
-<title>The Lumineers: Live At Musilac 2017</title>
-<sub-title></sub-title>
-<desc>The Lumineers: Live At Musilac 2017</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113134400 +0000" stop="20261113141100 +0000" channel="StingrayiConcerts.at">
-<title>Florence And The Machine - Austin City Limits</title>
-<sub-title></sub-title>
-<desc>Florence And The Machine - Austin City Limits</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113141100 +0000" stop="20261113153800 +0000" channel="StingrayiConcerts.at">
-<title>Lindsey Buckingham -- Songs From Small Machine: Live in L.A.</title>
-<sub-title></sub-title>
-<desc>Lindsey Buckingham -- Songs From Small Machine: Live in L.A.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113153800 +0000" stop="20261113162500 +0000" channel="StingrayiConcerts.at">
-<title>LL Cool J - Coke Zero Countdown Concert</title>
-<sub-title></sub-title>
-<desc>LL Cool J - Coke Zero Countdown Concert</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113162500 +0000" stop="20261113164900 +0000" channel="StingrayiConcerts.at">
-<title>Alabama Shakes - Austin City Limits</title>
-<sub-title></sub-title>
-<desc>Alabama Shakes - Austin City Limits</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113164900 +0000" stop="20261113192700 +0000" channel="StingrayiConcerts.at">
-<title>Foo Fighters: Live in London</title>
-<sub-title></sub-title>
-<desc>Foo Fighters: Live in London</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113192700 +0000" stop="20261113200900 +0000" channel="StingrayiConcerts.at">
-<title>AC/DC: Live at the Circus Krone</title>
-<sub-title></sub-title>
-<desc>AC/DC: Live at the Circus Krone</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113200900 +0000" stop="20261113214600 +0000" channel="StingrayiConcerts.at">
-<title>Deep Purple with Orchestra: Live in Verona</title>
-<sub-title></sub-title>
-<desc>Deep Purple with Orchestra: Live in Verona</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113214600 +0000" stop="20261113230000 +0000" channel="StingrayiConcerts.at">
-<title>Paul Rodgers: Free Spirit</title>
-<sub-title></sub-title>
-<desc>Paul Rodgers: Free Spirit</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20261113230000 +0000" stop="20261114002900 +0000" channel="StingrayiConcerts.at">
 <title>30 Seconds To Mars - Live in London 2013</title>
 <sub-title></sub-title>
@@ -3132,154 +3018,142 @@
 <desc>Celine Dion: That&apos;s Just the Woman in Me</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261119230000 +0000" stop="20261119235900 +0000" channel="StingrayiConcerts.at">
+<programme start="20261119230000 +0000" stop="20261120003500 +0000" channel="StingrayiConcerts.at">
 <title>Paramore Live at Roundhouse</title>
 <sub-title></sub-title>
 <desc>Paramore Live at Roundhouse</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="Daystar.pe">
-<title>Jentezen Franklin</title>
+<programme start="20261120003500 +0000" stop="20261120013100 +0000" channel="StingrayiConcerts.at">
+<title>Michael Kiwanuka: Garorock Festival 2017</title>
 <sub-title></sub-title>
-<desc>La realidad de las relaciones con Dios.</desc>
+<desc>Michael Kiwanuka: Garorock Festival 2017</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="Daystar.pe">
-<title>En contacto con el Dr. Charles Stanley</title>
+<programme start="20261120013100 +0000" stop="20261120020000 +0000" channel="StingrayiConcerts.at">
+<title>iConcerts Hits</title>
 <sub-title></sub-title>
-<desc>El Dr. Stanley usa la historia de la obediencia de Noé con Dios como ejemplos de su propia vida para discutir cómo escuchar, confiar y obedecer al Señor.</desc>
-<episode-num system="xmltv_ns">.54.</episode-num>
-</programme>
-<programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="Daystar.pe">
-<title>Joni Table Talk</title>
-<sub-title></sub-title>
-<desc>Joni y sus invitados conversan con franqueza e ingenio sobre una amplia variedad de cuestiones relevantes, temas controvertidos y noticias de gran repercusión.</desc>
+<desc>iConcerts Hits</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="Daystar.pe">
-<title>En contacto con el Dr. Charles Stanley</title>
+<programme start="20261120020000 +0000" stop="20261120033000 +0000" channel="StingrayiConcerts.at">
+<title>Florence + the Machine -- Live at Apple Music Festival</title>
 <sub-title></sub-title>
-<desc>El Dr. Stanley usa la historia de la obediencia de Noé con Dios como ejemplos de su propia vida para discutir cómo escuchar, confiar y obedecer al Señor.</desc>
-<episode-num system="xmltv_ns">.54.</episode-num>
-</programme>
-<programme start="20261113130000 +0000" stop="20261113133000 +0000" channel="Daystar.pe">
-<title>Michael A. Youssef</title>
-<sub-title></sub-title>
-<desc>El Dr. Michael Youssef se encarga de proclamar apasionadamente la verdad a través de sus ministerios.</desc>
+<desc>Florence + the Machine -- Live at Apple Music Festival</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="Daystar.pe">
-<title>Andrew Wommack: La verdad del evangelio</title>
+<programme start="20261120033000 +0000" stop="20261120044300 +0000" channel="StingrayiConcerts.at">
+<title>The Killers - Live at Rock Am Ring</title>
 <sub-title></sub-title>
-<desc>Un programa que enseña el amor incondicional, la gracia de Dios y los principios bíblicos.</desc>
+<desc>The Killers - Live at Rock Am Ring</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="Daystar.pe">
-<title>A toda luz</title>
+<programme start="20261120044300 +0000" stop="20261120050700 +0000" channel="StingrayiConcerts.at">
+<title>The Black Keys: Live at Austin City Limits</title>
 <sub-title></sub-title>
-<desc>Un espacio lleno de vida, con conversaciones y risas que inspiran. Voces dinámicas y temas relevantes para acercarse más a Dios.</desc>
+<desc>The Black Keys: Live at Austin City Limits</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="Daystar.pe">
-<title>Impactando Las Naciones</title>
+<programme start="20261120050700 +0000" stop="20261120065100 +0000" channel="StingrayiConcerts.at">
+<title>This is What the Truth Feels Like Tour 2016</title>
 <sub-title></sub-title>
-<desc>Un programa que trata sobre los problemas de la comunidad, en lo cultural, en la integración e intervención en el ámbito religioso.</desc>
+<desc>This is What the Truth Feels Like Tour 2016</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="Daystar.pe">
-<title>Camino a la victoria</title>
+<programme start="20261120065100 +0000" stop="20261120073700 +0000" channel="StingrayiConcerts.at">
+<title>Charli XCX: Reading And Leeds Festival 2022</title>
 <sub-title></sub-title>
-<desc>Análisis, expectativas y entrevistas sobre el partido decisivo entre los Eagles y los Chiefs.</desc>
+<desc>Charli XCX: Reading And Leeds Festival 2022</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113153000 +0000" stop="20261113160000 +0000" channel="Daystar.pe">
-<title>Dios de milagros</title>
+<programme start="20261120073700 +0000" stop="20261120083500 +0000" channel="StingrayiConcerts.at">
+<title>Of Monsters and Men - Main Square Festival 2013</title>
 <sub-title></sub-title>
-<desc>Experimenta el poder sanador de Dios, con las palabras ungidas del pastor Hernán Castaño en Dios de Milagros. ¡Desata el mover de Dios en tu familia!</desc>
+<desc>Of Monsters and Men - Main Square Festival 2013</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="Daystar.pe">
-<title>El programa de John Ankerberg</title>
+<programme start="20261120083500 +0000" stop="20261120095300 +0000" channel="StingrayiConcerts.at">
+<title>Billy Talent: Live at Festival Rock Am Ring</title>
 <sub-title></sub-title>
-<desc>John Ankerberg, experto en apologética cristiana, presenta toda clase de dudas espirituales contemporáneas y defiende la validez de la Biblia para lograr responderlas.</desc>
+<desc>Billy Talent: Live at Festival Rock Am Ring</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113163000 +0000" stop="20261113170000 +0000" channel="Daystar.pe">
-<title>Jason Lozano</title>
+<programme start="20261120095300 +0000" stop="20261120104800 +0000" channel="StingrayiConcerts.at">
+<title>Panic! at the Disco: Rock Am Ring 2016</title>
 <sub-title></sub-title>
-<desc>Un espacio religioso de la mano del pastor Jason Lozano.</desc>
+<desc>Panic! at the Disco: Rock Am Ring 2016</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="Daystar.pe">
-<title>Marcus Lamb</title>
+<programme start="20261120104800 +0000" stop="20261120110300 +0000" channel="StingrayiConcerts.at">
+<title>iConcerts Hits</title>
 <sub-title></sub-title>
-<desc>Marcus Lamb trae un mensaje de fe y esperanza en esta colección de servicios.</desc>
+<desc>iConcerts Hits</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113180000 +0000" stop="20261113183000 +0000" channel="Daystar.pe">
-<title>Samuel Rodriguez</title>
+<programme start="20261120110300 +0000" stop="20261120122900 +0000" channel="StingrayiConcerts.at">
+<title>Duran Duran: Live from London</title>
 <sub-title></sub-title>
-<desc>Un programa religioso encabezado por el reverendo Samuel Rodríguez.</desc>
+<desc>Duran Duran: Live from London</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113183000 +0000" stop="20261113190000 +0000" channel="Daystar.pe">
-<title>Dr. David Jeremiah</title>
+<programme start="20261120122900 +0000" stop="20261120132800 +0000" channel="StingrayiConcerts.at">
+<title>Motörhead - Rock Im Park</title>
 <sub-title></sub-title>
-<desc>Enseñanza práctica de la Biblia.</desc>
+<desc>Motörhead - Rock Im Park</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113190000 +0000" stop="20261113193000 +0000" channel="Daystar.pe">
-<title>Aqua viva</title>
+<programme start="20261120132800 +0000" stop="20261120141100 +0000" channel="StingrayiConcerts.at">
+<title>Oasis: Live at Wembley Arena 2008</title>
 <sub-title></sub-title>
-<desc>Un espacio de corte cultural y educativo que se centra en el agua como elemento vital, explorando su importancia en la salud, la naturaleza y la vida cotidiana.</desc>
+<desc>Oasis: Live at Wembley Arena 2008</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113193000 +0000" stop="20261113200000 +0000" channel="Daystar.pe">
-<title>Dios de milagros</title>
+<programme start="20261120141100 +0000" stop="20261120153900 +0000" channel="StingrayiConcerts.at">
+<title>Slash Ft Myles Kennedy And The Conspirators - Live At The Roxy</title>
 <sub-title></sub-title>
-<desc>Experimenta el poder sanador de Dios, con las palabras ungidas del pastor Hernán Castaño en Dios de Milagros. ¡Desata el mover de Dios en tu familia!</desc>
+<desc>Slash Ft Myles Kennedy And The Conspirators - Live At The Roxy</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="Daystar.pe">
-<title>Michael A. Youssef</title>
+<programme start="20261120153900 +0000" stop="20261120162800 +0000" channel="StingrayiConcerts.at">
+<title>Snow Patrol: Live at Somerset House</title>
 <sub-title></sub-title>
-<desc>El Dr. Michael Youssef se encarga de proclamar apasionadamente la verdad a través de sus ministerios.</desc>
+<desc>Snow Patrol: Live at Somerset House</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113203000 +0000" stop="20261113210000 +0000" channel="Daystar.pe">
-<title>A toda luz</title>
+<programme start="20261120162800 +0000" stop="20261120172900 +0000" channel="StingrayiConcerts.at">
+<title>Jerry Lee Lewis and Friends</title>
 <sub-title></sub-title>
-<desc>Un espacio lleno de vida, con conversaciones y risas que inspiran. Voces dinámicas y temas relevantes para acercarse más a Dios.</desc>
+<desc>Jerry Lee Lewis and Friends</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113210000 +0000" stop="20261113213000 +0000" channel="Daystar.pe">
-<title>The Supernatural Now</title>
+<programme start="20261120172900 +0000" stop="20261120192600 +0000" channel="StingrayiConcerts.at">
+<title>Paul McCartney: The Space Within Us</title>
 <sub-title></sub-title>
-<desc>Con Guillermo Maldonado, líder apostólico del Ministerio del Rey Jesús en Miami, parte de una red de iglesias en los EE.UU. y América Latina.</desc>
+<desc>Paul McCartney: The Space Within Us</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113213000 +0000" stop="20261113220000 +0000" channel="Daystar.pe">
-<title>Andrew Wommack: La verdad del evangelio</title>
+<programme start="20261120192600 +0000" stop="20261120200900 +0000" channel="StingrayiConcerts.at">
+<title>Haim - Live at Main Square Festival 2013</title>
 <sub-title></sub-title>
-<desc>Un programa que enseña el amor incondicional, la gracia de Dios y los principios bíblicos.</desc>
+<desc>Haim - Live at Main Square Festival 2013</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113220000 +0000" stop="20261113223000 +0000" channel="Daystar.pe">
-<title>Aqua viva</title>
+<programme start="20261120200900 +0000" stop="20261120220700 +0000" channel="StingrayiConcerts.at">
+<title>Jethro Tull: Live at Montreux 2003</title>
 <sub-title></sub-title>
-<desc>Un espacio de corte cultural y educativo que se centra en el agua como elemento vital, explorando su importancia en la salud, la naturaleza y la vida cotidiana.</desc>
+<desc>Jethro Tull: Live at Montreux 2003</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="Daystar.pe">
-<title>En familia con Luis y Kristen</title>
+<programme start="20261120220700 +0000" stop="20261120230000 +0000" channel="StingrayiConcerts.at">
+<title>Radiohead: Live from the Basement</title>
 <sub-title></sub-title>
-<desc>Enseñanzas dinámicas de Luis y Kristen Román, quienes responden las preguntas más relevantes sobre matrimonio, hijos, hogar, salud familiar y Dios.</desc>
+<desc>Radiohead: Live from the Basement</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="Daystar.pe">
-<title>El cielo en la Tierra</title>
+<programme start="20261120230000 +0000" stop="20261120235900 +0000" channel="StingrayiConcerts.at">
+<title>Noel Gallagher: Live in London 2012</title>
 <sub-title></sub-title>
-<desc>Predicación de la Iglesia Cristiana &quot;El lugar de su presencia&quot; en Bogotá, Colombia. Con temas relevantes y prácticos, aplicables a la vida diaria y consejos bíblicos para alentar, animar y reflexionar en toda situación.</desc>
+<desc>Noel Gallagher: Live in London 2012</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20261114000000 +0000" stop="20261114010000 +0000" channel="Daystar.pe">
@@ -4080,294 +3954,6 @@
 <desc>Las principales noticias del país y del mundo, seguidas por un análisis en profundidad de temas destacados de la jornada.</desc>
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
-<programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113130000 +0000" stop="20261113133000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113153000 +0000" stop="20261113160000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113163000 +0000" stop="20261113170000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113180000 +0000" stop="20261113183000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113183000 +0000" stop="20261113190000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113190000 +0000" stop="20261113193000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113193000 +0000" stop="20261113200000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113203000 +0000" stop="20261113210000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113210000 +0000" stop="20261113213000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113213000 +0000" stop="20261113220000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113220000 +0000" stop="20261113223000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113230000 +0000" stop="20261113233000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261113233000 +0000" stop="20261114000000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114000000 +0000" stop="20261114003000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114003000 +0000" stop="20261114010000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114010000 +0000" stop="20261114013000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114013000 +0000" stop="20261114020000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114020000 +0000" stop="20261114023000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114023000 +0000" stop="20261114030000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114030000 +0000" stop="20261114033000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114033000 +0000" stop="20261114040000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114040000 +0000" stop="20261114043000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114043000 +0000" stop="20261114050000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114050000 +0000" stop="20261114053000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114053000 +0000" stop="20261114060000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114060000 +0000" stop="20261114063000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114063000 +0000" stop="20261114070000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114070000 +0000" stop="20261114073000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114073000 +0000" stop="20261114080000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114080000 +0000" stop="20261114083000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114083000 +0000" stop="20261114090000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114090000 +0000" stop="20261114093000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114093000 +0000" stop="20261114100000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114100000 +0000" stop="20261114103000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
-<programme start="20261114103000 +0000" stop="20261114110000 +0000" channel="Enlace.pe">
-<title>Maratónica</title>
-<sub-title></sub-title>
-<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
-<episode-num system="xmltv_ns"></episode-num>
-</programme>
 <programme start="20261114110000 +0000" stop="20261114113000 +0000" channel="Enlace.pe">
 <title>Maratónica</title>
 <sub-title></sub-title>
@@ -5101,6 +4687,294 @@
 <episode-num system="xmltv_ns"></episode-num>
 </programme>
 <programme start="20261117000000 +0000" stop="20261117003000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117003000 +0000" stop="20261117010000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117010000 +0000" stop="20261117013000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117013000 +0000" stop="20261117020000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117020000 +0000" stop="20261117023000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117023000 +0000" stop="20261117030000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117030000 +0000" stop="20261117033000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117033000 +0000" stop="20261117040000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117040000 +0000" stop="20261117043000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117043000 +0000" stop="20261117050000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117050000 +0000" stop="20261117053000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117053000 +0000" stop="20261117060000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117060000 +0000" stop="20261117063000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117063000 +0000" stop="20261117070000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117070000 +0000" stop="20261117073000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117073000 +0000" stop="20261117080000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117080000 +0000" stop="20261117083000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117083000 +0000" stop="20261117090000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117090000 +0000" stop="20261117093000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117093000 +0000" stop="20261117100000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117100000 +0000" stop="20261117103000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117103000 +0000" stop="20261117110000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117110000 +0000" stop="20261117113000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117113000 +0000" stop="20261117120000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117120000 +0000" stop="20261117123000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117123000 +0000" stop="20261117130000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117130000 +0000" stop="20261117133000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117133000 +0000" stop="20261117140000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117140000 +0000" stop="20261117143000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117143000 +0000" stop="20261117150000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117150000 +0000" stop="20261117153000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117153000 +0000" stop="20261117160000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117160000 +0000" stop="20261117163000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117163000 +0000" stop="20261117170000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117170000 +0000" stop="20261117173000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117173000 +0000" stop="20261117180000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117180000 +0000" stop="20261117183000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117183000 +0000" stop="20261117190000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117190000 +0000" stop="20261117193000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117193000 +0000" stop="20261117200000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117200000 +0000" stop="20261117203000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117203000 +0000" stop="20261117210000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117210000 +0000" stop="20261117213000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117213000 +0000" stop="20261117220000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117220000 +0000" stop="20261117223000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117223000 +0000" stop="20261117230000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117230000 +0000" stop="20261117233000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261117233000 +0000" stop="20261118000000 +0000" channel="Enlace.pe">
+<title>Maratónica</title>
+<sub-title></sub-title>
+<desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
+<episode-num system="xmltv_ns"></episode-num>
+</programme>
+<programme start="20261118000000 +0000" stop="20261118003000 +0000" channel="Enlace.pe">
 <title>Maratónica</title>
 <sub-title></sub-title>
 <desc>Un programa especial de predicación, motivación y música que convoca a todos los evangélicos del mundo, en el que se aprende sobre los principios bíblicos para el desarrollo integral.</desc>
